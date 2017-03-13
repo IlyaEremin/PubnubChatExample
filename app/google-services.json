@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881379099242",
+    "firebase_url": "https://pubnub-chat-61ba1.firebaseio.com",
+    "project_id": "pubnub-chat-61ba1",
+    "storage_bucket": "pubnub-chat-61ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881379099242:android:06fc39fc6d7c6497",
+        "android_client_info": {
+          "package_name": "com.ilyaeremin.pubnubchatexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881379099242-tegfock5ufvh22j566f5682jh8egs9nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0S-B9KoiKUWeD5NVgijsKFZ-hBhzev8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
