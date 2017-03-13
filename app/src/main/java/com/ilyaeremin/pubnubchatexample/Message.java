@@ -9,12 +9,15 @@ public class Message {
     private String text;
     private String author;
 
+    private AndroidPushes pn_gcm;
+
     public Message() {
     }
 
     public Message(String text, String author) {
         this.text = text;
         this.author = author;
+        this.pn_gcm = new AndroidPushes("New Incomming Message suchek", author + ": " + text);
     }
 
     public String getAuthor() {
@@ -25,4 +28,5 @@ public class Message {
 
         return text;
     }
+
 }
